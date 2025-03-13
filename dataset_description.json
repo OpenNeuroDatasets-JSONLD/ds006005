@@ -1,0 +1,12 @@
+{
+    "Name": "The temporal specificity of BOLD fMRI is systematically related to anatomical and vascular features of the human brain",
+    "Authors": [
+        "Daniel E.P. Gomez",
+        "Jonathan R. Polimeni",
+        "Laura D. Lewis"
+    ],
+    "HowToAcknowledge": "Please cite our Imaging Neuroscience publication, Gomez et al. 2024; https://doi.org/10.1162/imag_a_00399",
+    "DatasetType": "raw",
+    "License": "PDDL",
+    "BIDSVersion": "1.0.0"
+}
